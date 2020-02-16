@@ -8,5 +8,8 @@
 ## Medium
 - [2. 兩數相加](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-7adad6139ddc)
 - [3. 無重複字符的最長子串](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-3-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2-ce9357c01fb7)
+- [5. 最長回文子串](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-5-%E6%9C%80%E9%95%B7%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2-192c649b79aa)
+- [6 . Z字形變換](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-6-z%E5%AD%97%E5%BD%A2%E8%AE%8A%E6%8F%9B-f9a287113d82)
+- [8. 字符串轉換整數 (atoi)](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-medium-8-%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0-atoi-f6a79fd869a9)
 ## Hard
 - [4. 尋找兩個有序數組的中位數](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-hard-4-%E5%B0%8B%E6%89%BE%E5%85%A9%E5%80%8B%E6%9C%89%E5%BA%8F%E6%95%B8%E7%B5%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B8-a9fa7d903f34)
