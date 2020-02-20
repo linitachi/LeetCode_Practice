@@ -9,6 +9,7 @@
 - [20. 有效的括號](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-20-%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E8%99%9F-7d4031ef6d89)
 - [21. 合併兩個有序鍊錶](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-21-%E5%90%88%E4%BD%B5%E5%85%A9%E5%80%8B%E6%9C%89%E5%BA%8F%E9%8D%8A%E9%8C%B6-65f1d16cc917)
 - [26. 刪除排序數組中的重複項](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-26-%E5%88%AA%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B8%E7%B5%84%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A4%87%E9%A0%85-3958647ab2df)
+- [27. 移除元素](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-27-%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0-52838e8f59bc)
 - [206. 反轉鍊錶](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-easy-206-%E5%8F%8D%E8%BD%89%E9%8D%8A%E9%8C%B6-814444faecb9)
 ## Medium
 - [2. 兩數相加](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-7adad6139ddc)
