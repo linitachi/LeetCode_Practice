@@ -48,11 +48,36 @@
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        for i in range(len(nums)):
-            if nums[i] >= target:
-                return i
-        nums.append(target)
-        return len(nums)-1
+        left = 0
+        right = len(nums)-1
+        mid = (left + right) // 2
+        if nums[right] < target:
+            return len(nums)
+        elif nums[left] > target:
+            return 0
+        while 1:
+            if nums[mid] == target:
+                return mid
+            elif nums[left] == target:
+                return left
+            elif nums[right] == target:
+                return right
+            # 往大的走
+            elif nums[mid] < target:
+                left = mid
+            # 往小的走
+            elif nums[mid] > target:
+                right = mid
+            mid = (left + right) // 2
+            if mid == left:
+                return left+1
+            elif mid == right:
+                return right
 
+        #  暴力法
+        # for i in range(len(nums)):
+        #     if nums[i] >= target:
+        #         return i
+        # return len(nums)
 
 # @lc code=end
