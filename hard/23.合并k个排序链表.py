@@ -37,43 +37,29 @@
 
 class Solution:
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
-        if not lists:
-            return None
-        i = -1
-        while 1:
-            i += 1
-            if not lists:
-                return None
-            elif not lists[i]:
-                lists.pop(i)
-                i -= 1
-            else:
-                break
-
-        answer = ListNode(0)
-
-        tem = answer
-        tem.next = None
-        while len(lists):
-            j = 0
-            tem.next = lists[0]
-            i = 1
-            while i != len(lists):
-                if lists[i] == None:
-                    lists.pop(i)
-                    i -= 1
-                if lists[j].val > lists[i].val:
-                    tem.next = lists[i]
-                    j = i
-                i += 1
-            lists[j] = lists[j].next
-            tem = tem.next
-            if lists[j] == None:
-                lists.pop(j)
-            if len(lists) == 1:
-                tem.next = lists[0]
-                break
-        return answer.next
+        def mergeTwoLists(l1, l2):
+            answer = ListNode(0)
+            temp = answer
+            while l1 and l2:
+                if l1.val < l2.val:
+                    temp.next = l1
+                    l1 = l1.next
+                else:
+                    temp.next = l2
+                    l2 = l2.next
+                temp = temp.next
+            temp.next = l1 if l1 is not None else l2
+            return answer.next
+        lists_length = len(lists)
+        interval = 1
+        while lists_length > interval:
+            for i in range(0, lists_length - interval, interval * 2):
+                lists[i] = mergeTwoLists(lists[i], lists[i + interval])
+            interval *= 2
+        if lists_length > 0:
+            return lists[0]
+        else:
+            None
 
 
 # @lc code=end
