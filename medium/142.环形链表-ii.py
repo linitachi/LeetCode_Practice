@@ -65,17 +65,41 @@
 
 class Solution:
     def detectCycle(self, head: ListNode) -> ListNode:
-        if not head:
-            return None
-        node_dict = {}
-        target = head
-        while target:
-            # 如果找不到，就丟到字典裡
-            if node_dict.get(target) == None:
-                node_dict[target] = 0
-            else:
-                return target
-            target = target.next
 
-        return None
+        # if not head:
+        #     return None
+        # node_dict = {}
+        # target = head
+        # while target:
+        #     # 如果找不到，就丟到字典裡
+        #     if node_dict.get(target) == None:
+        #         node_dict[target] = 0
+        #     else:
+        #         return target
+        #     target = target.next
+
+        # return None
+
+        # Floyd 算法
+        if not head or not head.next:
+            return None
+
+        ptr1 = head
+        ptr2 = head
+        while 1:
+            if not ptr1 or not ptr2.next:
+                return None
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next.next
+            if ptr1 == ptr2:
+                break
+            elif not ptr1 or not ptr2:
+                return None
+        # 確認有環
+        ptr1 = head
+        while ptr1 != ptr2:
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next
+        return ptr1
+
 # @lc code=end
