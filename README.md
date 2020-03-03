@@ -14,6 +14,7 @@
 - [35. 搜索插入位置](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-35-%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE-79f83afa4d53)
 - [38. 外觀數列](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-38-%E5%A4%96%E8%A7%80%E6%95%B8%E5%88%97-64f598a59c89)
 - [53. 最大子序和](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C-7267052171de)
+- [58. 最後一個單詞的長度](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-58-%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E5%96%AE%E8%A9%9E%E7%9A%84%E9%95%B7%E5%BA%A6-387c8639e9a1)
 - [206. 反轉鍊錶](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-easy-206-%E5%8F%8D%E8%BD%89%E9%8D%8A%E9%8C%B6-814444faecb9)
 ## Medium
 - [2. 兩數相加](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-7adad6139ddc)
