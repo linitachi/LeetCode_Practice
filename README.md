@@ -29,6 +29,7 @@
 - [16. 最接近的三數之和](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-16-%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B8%E4%B9%8B%E5%92%8C-574933e8a505)
 - [17. 電話號碼的字母組合](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-17-%E9%9B%BB%E8%A9%B1%E8%99%9F%E7%A2%BC%E7%9A%84%E5%AD%97%E6%AF%8D%E7%B5%84%E5%90%88-743977e816c4)
 - [18. 四數之和](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-18-%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C-6e90115c2dcc)
+- [19. 刪除鍊錶的倒數第n個節點](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACn%E4%B8%AA%E8%8A%82%E7%82%B9-a3300b634d09)
 - [22. 括號生成](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-22-%E6%8B%AC%E8%99%9F%E7%94%9F%E6%88%90-68a2bdeb9e94)
 - [31. 下一个排列](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-31-%E4%B8%8B%E4%B8%80%E5%80%8B%E6%8E%92%E5%88%97-ae48a92316e2)
 - [50. pow-x-n](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-50-pow-x-n-82e5dfab3af3)
