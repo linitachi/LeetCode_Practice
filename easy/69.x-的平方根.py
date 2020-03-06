@@ -55,7 +55,8 @@ class Solution:
                 else:
                     right = middle
                     middle = (left + right) // 2
-                if middle == left or middle == right:
+                if middle == left:
+                    print(left, right)
                     return right
 
 # @lc code=end
