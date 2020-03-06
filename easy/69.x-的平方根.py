@@ -42,20 +42,20 @@ class Solution:
     def mySqrt(self, x: int) -> int:
         left = 0
         right = x // 2
-        midle = (left + right) // 2
+        middle = (left + right) // 2
         if x == 1:
             return 1
         while 1:
-            if midle ** 2 <= x and (midle + 1) ** 2 > x:
-                return midle
+            if middle ** 2 <= x and (middle + 1) ** 2 > x:
+                return middle
             else:
-                if midle ** 2 <= x:
-                    left = midle
-                    midle = (left + right) // 2
+                if middle ** 2 <= x:
+                    left = middle
+                    middle = (left + right) // 2
                 else:
-                    right = midle
-                    midle = (left + right) // 2
-                if midle == left or midle == right:
+                    right = middle
+                    middle = (left + right) // 2
+                if middle == left or middle == right:
                     return right
 
 # @lc code=end
