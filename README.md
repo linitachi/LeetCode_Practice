@@ -16,6 +16,7 @@
 - [53. 最大子序和](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-53-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C-7267052171de)
 - [58. 最後一個單詞的長度](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-58-%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E5%96%AE%E8%A9%9E%E7%9A%84%E9%95%B7%E5%BA%A6-387c8639e9a1)
 - [66. 加一](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-66-%E5%8A%A0%E4%B8%80-2a6b999b03f6)
+- [69 x的平方根](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-69-x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9-ffcd7d386ab5)
 - [70. 爬樓梯](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-70-%E7%88%AC%E6%A5%BC%E6%A2%AF-4c0899e5178f)
 - [206. 反轉鍊錶](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-easy-206-%E5%8F%8D%E8%BD%89%E9%8D%8A%E9%8C%B6-814444faecb9)
 ## Medium
@@ -34,6 +35,7 @@
 - [22. 括號生成](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-22-%E6%8B%AC%E8%99%9F%E7%94%9F%E6%88%90-68a2bdeb9e94)
 - [31. 下一个排列](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-31-%E4%B8%8B%E4%B8%80%E5%80%8B%E6%8E%92%E5%88%97-ae48a92316e2)
 - [50. pow-x-n](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-50-pow-x-n-82e5dfab3af3)
+- [54. 螺旋矩陣](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-54-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5-f7d3dd168f25)
 ## Hard
 - [4. 尋找兩個有序數組的中位數](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-hard-4-%E5%B0%8B%E6%89%BE%E5%85%A9%E5%80%8B%E6%9C%89%E5%BA%8F%E6%95%B8%E7%B5%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B8-a9fa7d903f34)
 - [10. 正則表達式匹配](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-hard-10-%E6%AD%A3%E5%89%87%E8%A1%A8%E9%81%94%E5%BC%8F%E5%8C%B9%E9%85%8D-366482a1d0b1)
