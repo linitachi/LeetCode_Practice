@@ -77,6 +77,5 @@ class Solution:
             if m_head == m:
                 break
         return anwser_list
-        print(anwser_list)
 
 # @lc code=end
