@@ -18,6 +18,7 @@
 - [66. 加一](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-66-%E5%8A%A0%E4%B8%80-2a6b999b03f6)
 - [69 x的平方根](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-69-x-%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9-ffcd7d386ab5)
 - [70. 爬樓梯](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-70-%E7%88%AC%E6%A5%BC%E6%A2%AF-4c0899e5178f)
+- [83. 刪除排序鍊錶中的重複元素](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-83-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-1b5c7e27d834)
 - [206. 反轉鍊錶](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-easy-206-%E5%8F%8D%E8%BD%89%E9%8D%8A%E9%8C%B6-814444faecb9)
 ## Medium
 - [2. 兩數相加](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-7adad6139ddc)
