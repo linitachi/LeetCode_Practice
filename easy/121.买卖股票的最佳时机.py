@@ -50,11 +50,8 @@ class Solution:
                 tem_profit = prices[0] - index_price
                 if tem_profit > max_profit:
                     max_profit = tem_profit
-                    prices.pop(0)
-                else:
-                    prices.pop(0)
             else:
                 index_price = prices[0]
-                prices.pop(0)
+            prices.pop(0)
         return max_profit
         # @lc code=end
