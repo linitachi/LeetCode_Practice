@@ -26,6 +26,7 @@
 - [118. 楊輝三角](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-118-%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92-5ac79ef2441e)
 - [121. 買賣股票的最佳時機](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-easy-121-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA-49fe633a011d)
 - [206. 反轉鍊錶](https://medium.com/@linitachi_59493/leetcode%E7%AD%86%E8%A8%98-easy-206-%E5%8F%8D%E8%BD%89%E9%8D%8A%E9%8C%B6-814444faecb9)
+- [141. 環形鍊錶](https://github.com/linitachi/LeetCode_Practice/blob/master/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.py)
 ## Medium
 - [2. 兩數相加](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0-7adad6139ddc)
 - [3. 無重複字符的最長子串](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-3-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2-ce9357c01fb7)
