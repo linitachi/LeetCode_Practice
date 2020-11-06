@@ -1,5 +1,5 @@
 def quick_sort(arr):
-    def aswap(a, b):
+    def swap(a, b):
         tem = a
         a = b
         b = tem
@@ -13,10 +13,10 @@ def quick_sort(arr):
     # 因為change_index在pivot前一個，所以可以保證交換後，pivot一定會比它小。
     for i in range(change_index, -1, -1):
         if arr[i] > pivot:
-            arr[i], arr[change_index] = aswap(arr[i], arr[change_index])
+            arr[i], arr[change_index] = swap(arr[i], arr[change_index])
             change_index -= 1
     # 最後在把pivot移到change_index後面一格即可分成大小兩塊。
-    arr[end], arr[change_index+1] = aswap(arr[end], arr[change_index+1])
+    arr[end], arr[change_index+1] = swap(arr[end], arr[change_index+1])
 
     if len(arr) != 1:
         if arr[:change_index+1] != []:
