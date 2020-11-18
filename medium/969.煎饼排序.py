@@ -63,19 +63,15 @@ class Solution:
         while length > 1:
             index = arr.index(max(arr))
             arr.pop(index)
+            if index == length:
+                length -= 1
+                continue
             if index != 0:
                 arr[0:index] = arr[index-1::-1]
                 answer.append(index + 1)
-                answer.append(length)
-                length -= 1
-            else:
-                answer.append(length)
-                length -= 1
+            answer.append(length)
+            length -= 1
             arr = arr[::-1]
-            tem = arr.copy()
-            tem.sort()
-            if tem == arr:
-                break
         return answer
 
         # @lc code=end
