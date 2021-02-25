@@ -45,6 +45,7 @@
 - [31. 下一个排列](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-31-%E4%B8%8B%E4%B8%80%E5%80%8B%E6%8E%92%E5%88%97-ae48a92316e2)
 - [50. pow-x-n](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-50-pow-x-n-82e5dfab3af3)
 - [54. 螺旋矩陣](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-54-%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5-f7d3dd168f25)
+- [55. 跳躍遊戲](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-55-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-fdb573df11f3)
 - [56. 合併區間](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-56-%E5%90%88%E4%BD%B5%E5%8D%80%E9%96%93-414517405ba4)
 - [207. 課程表](https://medium.com/%E5%98%8E%E7%B7%AF%E7%9A%84%E5%B0%8F%E8%88%96/leetcode%E7%AD%86%E8%A8%98-medium-207-%E8%AF%BE%E7%A8%8B%E8%A1%A8-708828e81d21)
 ## Hard
